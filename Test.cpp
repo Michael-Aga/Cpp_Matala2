@@ -1,7 +1,7 @@
 #include "doctest.h"
-#include "player.hpp"
-#include "game.hpp"
-#include "card.hpp"
+#include "sources/player.hpp"
+#include "sources/game.hpp"
+#include "sources/card.hpp"
 #include <stdio.h>
 #include <iostream>
 
